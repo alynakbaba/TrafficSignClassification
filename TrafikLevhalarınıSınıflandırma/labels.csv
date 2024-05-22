@@ -1,0 +1,51 @@
+ClassId,Name
+0,Hýz sýnýrý (5 km/saat)
+1,Hýz sýnýrý (15 km/saat)
+2,Hýz sýnýrý (30 km/saat)
+3,Hýz sýnýrý (40 km/saat)
+4,Hýz sýnýrý (50 km/saat)
+5,Hýz sýnýrý (60 km/saat)
+6,Hýz sýnýrý (70 km/saat)
+7,Hýz sýnýrý (80 km/saat)
+8,Düz veya sola gitmeyin
+9,Düz veya saða gitmeyin
+10,Düz gitmeyin
+11,Sola dönülmez
+12,Sola veya saða dönülmez
+13,Saða dönülmez
+14,Soldan geçmeyin
+15,U dönüþü yapýlmaz
+16,Araba ile girilmesi yasaktýr
+17,Sesli ikaz cihazlarýnýn kullanýmý yasaktýr
+18,Hýz sýnýrý (40 km/saat)
+19,Hýz sýnýrý (50 km/saat)
+20,Ýleri ve saða mecburi yön
+21,Ýleri mecburi yön
+22,Ýlerde sola mecburi yön
+23,Saða ve sola mecburi yön
+24,Ýlerde saða mecburi yön
+25,Soldan gidiniz
+26,Saðdan gidiniz
+27,Ada etrafýndan dönünüz
+28,Mecburi motorlu taþýt yolu
+29,Korna çal
+30,Mecburi bisiklet yolu
+31,U dönüþü
+32,Her iki taraftan engeli geç
+33,Iþýklý iþaret cihazý
+34,Tehlikeli bölge
+35,Yaya geçidi
+36,Bisiklet geçebilir
+37,Okul geçidi
+38,Sola doðru tehlikeli viraj
+39,Saða doðru tehlikeli viraj
+40,Yokuþ aþaðý uyarýsý
+41,Dik yokuþ uyarýsý
+42,Saða veya düz git
+43,Sola veya düz git
+44,Demiryolu geçidi
+45,Çalýþma var
+46,Çit iþareti
+47,Yol ver
+48,Duraklamak ve park etmek yasaktýr
+49,Girilmez
